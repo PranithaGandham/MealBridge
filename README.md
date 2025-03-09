@@ -2,7 +2,7 @@
 
 MealBridge is a web application designed to connect restaurants with NGOs and charitable organizations to facilitate food donations. The platform allows restaurants to post surplus food donations, and NGOs can claim them based on their needs.
 
-![Alt text](https://github.com/PranithaGandham/MealBridge/blob/main/Screenshot%202025-03-08%20195033.png)
+![Alt text](https://github.com/PranithaGandham/MealBridge/blob/main/Screenshots/Screenshot%202025-03-08%20195033.png)
 
 ## Features
 
