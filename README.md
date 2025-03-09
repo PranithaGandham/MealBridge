@@ -22,6 +22,9 @@ MealBridge is a web application designed to connect restaurants with NGOs and ch
 - Email notifications for donation updates
 - User-friendly API with Django REST Framework
 
+![Alt text](https://github.com/PranithaGandham/MealBridge/blob/main/Screenshots/Screenshot%202025-03-08%20195349.png)
+
+
 ## Models
 
 ### 1. **Donee (NGOs/Charitable Organizations)**
@@ -69,6 +72,8 @@ MealBridge is a web application designed to connect restaurants with NGOs and ch
 - **Donees receive emails** when a restaurant submits a donation.
 - **Restaurants receive confirmation emails** when an NGO claims a donation.
 - Implemented using Django's Email module with SMTP settings.
+
+![Alt text](https://github.com/PranithaGandham/MealBridge/blob/main/Screenshots/Screenshot%202025-03-08%20195408.png)
 
 ## API Endpoints (Manual URLs, No Router)
 
